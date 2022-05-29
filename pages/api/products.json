@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Shield Hero Pack",
+    "price": "0.1",
+    "description": "Get this fire emoji pack for only $0.1! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmVhz3nJQATtURrtA1oVu64hBipZjzUGjxiyCghVnFVf3M",
+    "filename": "Emojis.zip",
+    "hash": "QmVhz3nJQATtURrtA1oVu64hBipZjzUGjxiyCghVnFVf3M"
+  },
+  {
+    "id": 2,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmVhz3nJQATtURrtA1oVu64hBipZjzUGjxiyCghVnFVf3M",
+    "filename": "Emojis.zip",
+    "hash": "QmVhz3nJQATtURrtA1oVu64hBipZjzUGjxiyCghVnFVf3M"
+  },
+  {
+    "id": 3,
+    "name": "Ami Cry",
+    "price": "0.05",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmZqbX1oPRcv8HQyuLE6JBS64ipeRVQoaMHpnMgRj1FCVv",
+    "description": "Ami Cry",
+    "filename": "ami.jpg.zip",
+    "hash": "QmanxeCrGJMjL5SCz5mekn4Hi5Nyz3dPiXn7re6ErAH2Y8"
+  }
+]
